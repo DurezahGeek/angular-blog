@@ -1,6 +1,6 @@
-# AngularBlog
+# Blog Dev's
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Apredendo trabalhar com Angular
 
 ## Development server
 
