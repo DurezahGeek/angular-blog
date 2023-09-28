@@ -2,26 +2,9 @@
 
 Apredendo trabalhar com Angular
 
-## Development server
+## Resultado do trabalho
+![image](https://github.com/DurezahGeek/angular-blog/assets/134101156/03ffbe1c-eb8b-4fb0-ab67-cc4bc3965c09)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Obrigada por visitar!
+![image](https://github.com/DurezahGeek/angular-blog/assets/134101156/6b789e5c-b89c-43c2-b307-b604922d915c)
