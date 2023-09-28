@@ -11,12 +11,16 @@
 
   <div class="big-card__title">
     <h1>
-      <a href="#"> {{cardTitulo}} </a>
+      <a [routerLink] = "['content', Id]"> {{cardTitulo}} </a>
     </h1>
   </div>
 
   <div class="big-card__descrisção">
-    <p> {{cardDescricao}} </p>
+    <p>
+      <a [routerLink] = "['content', Id]">
+        {{cardDescricao}}
+      </a>
+    </p>
   </div>
 
 </div>

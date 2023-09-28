@@ -1,0 +1,33 @@
+export const dataFake = [
+  {
+    "id": "1",
+    "titulo": "Falar com o ChatGPT? Chatbot ganha comandos de voz e imagem",
+    "descrição": "Novidades do chatbot da OpenAI devem chegar aos assinantes do ChatGPT Plus nas próximas semanas; atualizações também foram prometidas para o público geral em breve.",
+    "capaFoto": "https://s2-techtudo.glbimg.com/wSEqYdLzkNF5i_H0qjyAsiNFHKg=/0x0:1280x720/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/Y/J/wgX9xTTN2iMGjCXAJrCQ/chatgpt-openai-e1689349150367.jpg",
+    "noticia": "O ChatGPT agora pode receber comandos de voz e por imagens. As atualizações foram apresentadas pela OpenAI nesta segunda-feira (25) em uma postagem no X (antigo Twitter) e devem chegar aos assinantes do serviço Plus nas próximas semanas. A previsão é de que os recursos também se estendam à versão gratuita em um futuro breve. Com as novas configurações, o ChatGPT permitirá que o usuário grave mensagens em áudio pelo aplicativo, disponível para dispositivos Android e iPhone (iOS), e, na sequência, transcreverá o conteúdo e lerá a conversa em voz alta. O chatbot também poderá identificar elementos presentes em uma imagem e ainda contará com ferramentas de desenho para intervenções nas fotos. A novidade foi divulgada no mesmo dia em que a Amazon se comprometeu a investir até US$ 4 bilhões na Anthropic, startup fundada por ex-funcionários da OpenAI. Mas a disputa entre as gigantes da tecnologia – que inclui outros adversários poderosos, como o Google, a Meta e a Microsoft – está apenas começando. Confira, a seguir, como funcionam os comandos de voz e imagem na nova versão do ChatGPT."
+  },
+
+  {
+    "id": "2",
+    "titulo": "A inteligência artificial vai substituir os desenvolvedores?",
+    "descrição": "Entenda como aspectos fundamentalmente humanos podem garantir o futuro da profissão",
+    "capaFoto":"https://classic.exame.com/wp-content/uploads/2023/03/inteligencia-artificial.jpg",
+    "noticia": " Nos últimos meses, o processo de desenvolvimento acelerado da Inteligência Artificial (IA) foi o tema mais debatido no mundo da tecnologia. Se antes as imagens geradas pelo Midjourney eram apenas experimentos distantes, hoje elas já são tão convincentes que começam a se confundir com a realidade. O mesmo pode-se dizer das respostas geradas pelo ChatGPT, que apresentam um impressionante grau de assertividade dia após dia. Mas a pergunta de milhões é: a evolução da IA generativa realmente pode acabar com boa parte dos empregos atuais? Pensando na área tech, o atual potencial trazido por essas plataformas já vem impactando positivamente no trabalho dos desenvolvedores, mas isso não quer dizer que elas estão perto de substituir por completo a expertise dos profissionais. Até porque o grande desafio para desenvolver aplicações críticas, na maioria das vezes, é saber o que fazer e não como executar. Hoje, a IA tem a sua capacidade direcionada na execução. A parte mais analítica ainda não faz parte do escopo delas.Isso não quer dizer, porém, que a IA não seja valiosa para o mercado de programação. Pelo contrário, a produtividade dos devs que estão utilizando-as têm aumentado consideravelmente, uma vez que ela consegue fazer sugestões de códigos, algoritmos, geração de testes automatizados e até mesmo produção automática de documentação. "
+  },
+
+  {
+    "id": "3",
+    "titulo": "GitHub agora permite fazer login sem precisar de senha; entenda",
+    "descrição": "O GitHub anunciou nesta quarta-feira (12) o acesso a partir das passkeys, método de autenticação sem senhas. A novidade está disponível em uma versão beta pública e pode substituir a autenticação em dois fatores.",
+    "capaFoto":"https://tm.ibxk.com.br/2023/07/12/12115957215144.jpg",
+    "noticia": "A partir de agora, a conta no GitHub continuará tendo uma espécie de segunda autenticação a partir de uma chave de segurança física ou de um dispositivo móvel. Utilizado com os navegadores e seus sistemas de preenchimento automático ainda será possível receber sugestões para o uso das passkeys diretamente na página de login. Hirsch Singhal, gerente de Produtos do GitHub, pontua que as chaves de acesso ajudam praticamente a erradicar as fraudes e roubos de senhas. Segundo ele, o “GitHub está empenhado em ajudar a tornar a segurança de conta ainda mais forte, mantendo-se fiel ao compromisso de não comprometer a experiência do usuário”. Como ativar as passkeys no GitHub? Para configurar as chaves de acesso o usuário precisa clicar em sua foto de perfil no canto superior direito da página, abrir o menu “Feature Preview” e depois selecionar “enable passkeys”. Os dispositivos que estão atualizados são compatíveis com as passkeys desde o início, sendo necessário somente configurar a autenticação. Assim que o usuário acessar a visualização, o serviço perguntará se deseja configurar uma passkey no navegador. As passkeys criadas em um dispositivo também podem ser utilizados em outros, não sendo necessário criar um acesso para cada aparelho. A ferramenta Cross-Device Authentication permite utilizar a chave de acesso no telefone ou tablet para fazer login no PC, por exemplo. Neste sentido, também é possível escolher um dispositivo vinculado anteriormente ou digitalizar um QR Code com o telefone, concluir o login e, em seguida, já estará conectado à área de trabalho."
+  },
+
+  {
+    "id": "4",
+    "titulo": "O que é linguagem de programação?",
+    "descrição": "Uma das mais populares vertentes da Tecnologia da Informação, a área de programação segue tendo muita demanda de trabalho justamente pela velocidade com que dispositivos tecnológicos vêm avançando.",
+    "capaFoto":"https://tm.ibxk.com.br/2023/07/26/26110031907090.jpeg",
+    "noticia": " Uma linguagem de programação é basicamente uma forma de comunicação entre o humano e a máquina. Ela é utilizada de forma a instruir o programa de computador, site de internet, aplicativo de celular e até os modelos mais modernos de TVs. Estas instruções são passadas em forma de scripts, que nada mais são do que rotinas e instruções que os dispositivos devem seguir para funcionar de maneira apropriada. Para isto são utilizados comandos, regras semânticas e sintáticas, palavras-chave e até símbolos, de forma a permitir aos aparelhos entenderem o que devem ou não fazer dependendo da ação do usuário. Por exemplo, quando você pega o seu celular e para usar um determinado app, do momento em que você tocou na tela até a hora em que parar de utilizá-lo, cada ação realizada foi programada por alguém usando uma linguagem de programação. O mesmo vale para a sua smart TV, smartband, smartwatch, console de vídeo game e por aí vai."
+  }
+]

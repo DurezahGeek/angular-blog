@@ -1,6 +1,6 @@
 .container__big-card{
   margin-left: 10px ;
-  margin-right: 20px;
+  margin-right: 40px;
   width: 400px;
   height: 500px;
   display: flex;
@@ -14,9 +14,16 @@
   font-size: 25px;
 }
 
+.big-card__title h1 a:hover {
+  color: #00a0e4;
+}
+
 .big-card__descrisção >p{
   margin-top: 20px;
-  color: gray;
+}
+
+.big-card__descrisção >p >a{
+ color: rgb(186, 185, 185);
 }
 
 .big-card__photo > img {
